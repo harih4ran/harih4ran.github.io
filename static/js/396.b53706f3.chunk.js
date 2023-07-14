@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkDocumentation=self.webpackChunkDocumentation||[]).push([[396],{6396:function(e,t,c){e.exports=c.p+"static/media/getcategory.b1bc0c23c839071ea98e.md"}}]);
